@@ -1,3 +1,6 @@
+# elif means "else if" and is a way to loop through your data
+# take the below example, 
+
 recruitment_link = ("wwwjobscom")
 
 polite_message = "Your current wage should be "

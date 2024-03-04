@@ -41,4 +41,22 @@ for value in range(1,100):
 print(more_squares)
 
 # this is where we get to statistics!!!
+# not only can we manipulate numbers in python we can also extrapolate data!
+
+digits = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+
+print(min(digits))
+
+print(max(digits))
+
+print(sum(digits))
+
+# all of this number work scales inginitey with pyhton!
+
+for value in range(1,1000):
+    print(value)
+    
+
+even_numbers_big = list(range(2,1000,2))
+print(even_numbers_big)
 
